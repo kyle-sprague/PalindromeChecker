@@ -1,0 +1,1 @@
+This is a Palindrome Checker. If you enter a word it will respond with a boolean saying if it is or isn't a palindrome. It ignores non-letter and non-number charecters so "/eye" will still respond true because the / was ignored. The same goes for spaces. 
